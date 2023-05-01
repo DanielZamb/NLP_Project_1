@@ -1,0 +1,3 @@
+[submodule "front-end-BI"]
+	path = front-end-BI
+	url = https://github.com/DanielZamb/front-end-BI.git
